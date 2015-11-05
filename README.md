@@ -1,6 +1,6 @@
 # Repositório 1 do Curso Github #
 
-![Code Education](http://sites.code.education/wp-content/uploads/2014/11/logo-branco.png)
+![Code Education](http://sites.code.education/wp-content/uploads/2014/10/logo-code-preto.png)
 
 * [Website](http://sites.code.education/home-code/)
 * [Meu GitHub](https://github.com/heldersouza)
